@@ -1,0 +1,20 @@
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Project\Billing System Project\Billing System Project\bin\Debug\Billing System Project.exe.config
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Project\Billing System Project\Billing System Project\bin\Debug\Billing System Project.exe
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Project\Billing System Project\Billing System Project\bin\Debug\Billing System Project.pdb
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Project\Billing System Project\Billing System Project\obj\Debug\Billing System Project.csproj.AssemblyReference.cache
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Project\Billing System Project\Billing System Project\obj\Debug\Billing_System_Project.frmAdminDashboard.resources
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Project\Billing System Project\Billing System Project\obj\Debug\Billing_System_Project.Properties.Resources.resources
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Project\Billing System Project\Billing System Project\obj\Debug\Billing System Project.csproj.GenerateResource.cache
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Project\Billing System Project\Billing System Project\obj\Debug\Billing System Project.csproj.CoreCompileInputs.cache
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Project\Billing System Project\Billing System Project\obj\Debug\Billing System Project.exe
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Project\Billing System Project\Billing System Project\obj\Debug\Billing System Project.pdb
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Project\Billing System Project\Billing System Project\obj\Debug\Billing System Project.exe.config
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Project\Billing System Project\Billing System Project\obj\Debug\Billing_System_Project.frmUserDashboard.resources
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Project\Billing System Project\Billing System Project\obj\Debug\Billing_System_Project.UI.frmUsers.resources
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Project\Billing System Project\Billing System Project\obj\Debug\Billing_System_Project.UI.frmLogin.resources
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Project\Billing System Project\Billing System Project\obj\Debug\Billing_System_Project.UI.frmCategories.resources
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Project\Billing System Project\Billing System Project\obj\Debug\Billing_System_Project.UI.frmProducts.resources
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Project\Billing System Project\Billing System Project\obj\Debug\Billing_System_Project.UI.frmDeaCust.resources
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Project\Billing System Project\Billing System Project\obj\Debug\Billing_System_Project.UI.frmPurchaseAndSales.resources
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Project\Billing System Project\Billing System Project\obj\Debug\Billing_System_Project.UI.frmTransactions.resources
+D:\Campus Notes\Campus Notes\2nd year Sem2\Visual Programming\Assignments\Project\Billing System Project\Billing System Project\obj\Debug\Billing_System_Project.UI.frmInventory.resources
